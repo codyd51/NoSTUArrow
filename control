@@ -1,0 +1,9 @@
+Package: com.phillipt.nostuarrow
+Name: NoSTUArrow
+Depends: mobilesubstrate
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Remove the ‘slide to unlock’ arrow
+Maintainer: Phillip Tennen
+Author: Phillip Tennen
+Section: Tweaks
